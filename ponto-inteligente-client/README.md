@@ -4,8 +4,7 @@ Código cliente Angular 12 do sistema de ponto inteligente.
 O código cliente depende da API RESTful, que deverá estar configurada e em execução como requisito.
 Para executar o cliente (após a execução da API RESTful), execute os seguintes passos:
 ```
-git clone https://github.com/m4rciosouza/ponto-inteligente-client-curso-angular12.git
-cd ponto-inteligente-client-curso-angular12
+cd ponto-inteligente-client
 npm install -g @angular/cli
 npm install
 npm start
