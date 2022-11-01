@@ -42,7 +42,7 @@ Acesse a aplicação em [http://localhost:4200](http://localhost:4200)
 <h4>Adicionar Ponto Inteligente</h4>
 <img src="img/add.png" width="800">
 
-<h4>O foi desenvolvido: </h4>
+<h4>O que foi desenvolvido: </h4>
 Criado aplicações com recursos avançados do Angular </br>
 Consumir uma API RESTful criada em Spring Boot/Java </br>
 Criar aplicações com o Angular Material </br>
